@@ -1,2 +1,2 @@
-#import "src/demuxer.coffee"
-#import "src/decoder.coffee"
+require("./src/demuxer");
+require("./src/decoder");
